@@ -5,7 +5,7 @@ Installation: ```npm i hangman-gamejs```
 
 **Usage:**
 - Command line example:
-  ```
+```js
 const Hangman = require("hangman-gamejs")
 const game = new Hangman();
 while(game.state === "PLAYING"){
@@ -13,7 +13,7 @@ while(game.state === "PLAYING"){
   game.guess(prompt("Guess"))
 }
 console.log("GAME " + game.state + "!")
-  ```
+```
 - It can also be used in other cases, such as discord bots!
 
 **Classes:**
