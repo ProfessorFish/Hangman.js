@@ -1,0 +1,23 @@
+{
+  "name": "hangman-gamejs",
+  "version": "1.0.0",
+  "description": "A versatile package to do all things hangman.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorFish/Hangman.js.git"
+  },
+  "keywords": [
+    "hangman",
+    "hangman.js"
+  ],
+  "author": "ProfessorFish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProfessorFish/Hangman.js/issues"
+  },
+  "homepage": "https://github.com/ProfessorFish/Hangman.js#readme"
+}
