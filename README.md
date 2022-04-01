@@ -36,4 +36,4 @@ Wordlist
 - customWords: (array or false) List of your own words to add to the hangman list
 - dictionaryWords: (boolean) List of every word in the dictionary
 
-(Note: The game will pull a random word out of all of the types, so it is reccomended not to put words that exist when the dictionary option is enabled)
+(Note: The game will pull a random word out of all of the types, so it is reccomended not to put words that exist in custom words when the dictionary option is enabled)
