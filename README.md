@@ -5,7 +5,7 @@ Installation: ```npm i hangman-gamejs```
 
 **Usage:**
 - Command line example:
-  ```js
+  ```
 const Hangman = require("hangman-gamejs")
 const game = new Hangman();
 while(game.state === "PLAYING"){
